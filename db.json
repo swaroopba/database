@@ -1,13 +1,19 @@
 {
 "profiles": [
 {"id":1,
-"name":"swaroop"
+"name":"swaroop",
+"email":"swa@gmail.com",
+"projectId":101
 },
 {"id":2,
-"name":"ravi"
+"name":"ravi",
+"email":"ravi@gmail.com",
+"projectId":102
 },
 {"id":3,
-"name":"raju"
+"name":"raju",
+"email":"raju@gmail.com",
+"projectId":103
 }
 
 
